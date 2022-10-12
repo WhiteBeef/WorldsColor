@@ -1,0 +1,19 @@
+name: BeefWorldsColor
+version: 1.1.0
+main: ru.mrh1tech.worldscolor.WorldsColor
+api-version: 1.16
+authors: [ _WhiteBeef_, MrH1tech ]
+description: Change your prefix if you change world
+softdepend:
+  - PlaceholderAPI
+
+commands:
+  worldscolor:
+    description: Plugin settings
+    usage: §c/worldscolor <reload>
+    permission: worldscolor.command
+
+permissions:
+  worldscolor.command:
+    default: op
+    description: for command /worldscolor

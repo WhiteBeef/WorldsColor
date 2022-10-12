@@ -1,0 +1,9 @@
+colors:
+  world: 'GREEN'
+  world_nether: 'RED'
+  world_the_end: 'PURPLE'
+
+messages:
+  config-reload-successfully: '&aКонфиг успешно перезагружен!'
+  errors:
+    no-arguments: '&cУкажите аргументы для команды!'

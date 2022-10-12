@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WorldsColor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WorldsColor_jar</output-path>
+    <root id="archive" name="BeefWorldsColor.jar">
+      <element id="module-output" name="WorldsColor" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
